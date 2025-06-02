@@ -14,4 +14,4 @@ This repository contains a collection of front-end design projects built using <
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/css-projects.git
+   git clone https://github.com/talha-801/HTML-CSS-Mini-Projects.git
